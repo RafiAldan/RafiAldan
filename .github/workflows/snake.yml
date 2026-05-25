@@ -1,4 +1,4 @@
-name: Generate Snake & Pacman Animation
+name: Generate Pacman Animation
 
 on:
   schedule:
@@ -12,16 +12,6 @@ jobs:
       contents: write
 
     steps:
-      # Generate Snake (mode default)
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: RafiAldan
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # Generate Pacman (mode pacman — job terpisah agar file tidak tertimpa)
       - name: Generate Pacman SVG
         uses: Platane/snk@v3
         with:
@@ -30,8 +20,7 @@ jobs:
             dist/pacman.svg?type=pacman
             dist/pacman-dark.svg?type=pacman&palette=github-dark
 
-      # Push semua ke branch output
-      - name: Push to output branch
+      - name: Push ke branch output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
