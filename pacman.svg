@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 800 120" style="background:#0d1117">
+  <style>
+    .dot { fill: #D0021B; }
+    .eaten { animation: eat 0.2s forwards; }
+    @keyframes eat { to { opacity: 0; r: 0; } }
+
+    /* Pacman body */
+    #pac {
+      animation: movePac 6s linear infinite;
+    }
+    @keyframes movePac {
+      0%   { transform: translateX(-60px); }
+      100% { transform: translateX(860px); }
+    }
+
+    /* Mouth open/close */
+    #mouth {
+      animation: chomp 0.3s steps(1) infinite;
+    }
+    @keyframes chomp {
+      0%, 100% { d: path("M400,60 L440,40 A40,40 0 1,0 440,80 Z"); }
+      50%       { d: path("M400,60 L440,58 A40,40 0 1,0 440,62 Z"); }
+    }
+
+    /* Dots moving left with pacman illusion */
+    .row-dots {
+      animation: slideDots 6s linear infinite;
+    }
+    @keyframes slideDots {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(0); }
+    }
+
+    /* Ghost bounce */
+    .ghost {
+      animation: ghostMove 6s linear infinite, ghostBounce 0.6s ease-in-out infinite alternate;
+    }
+    @keyframes ghostMove {
+      0%   { transform: translateX(-120px); }
+      100% { transform: translateX(860px); }
+    }
+    @keyframes ghostBounce {
+      0%   { transform: translateY(0px); }
+      100% { transform: translateY(-6px); }
+    }
+
+    /* Dot disappear as pacman passes */
+    .d1  { animation: disappear 6s 0.4s  linear forwards infinite; }
+    .d2  { animation: disappear 6s 0.65s linear forwards infinite; }
+    .d3  { animation: disappear 6s 0.9s  linear forwards infinite; }
+    .d4  { animation: disappear 6s 1.15s linear forwards infinite; }
+    .d5  { animation: disappear 6s 1.4s  linear forwards infinite; }
+    .d6  { animation: disappear 6s 1.65s linear forwards infinite; }
+    .d7  { animation: disappear 6s 1.9s  linear forwards infinite; }
+    .d8  { animation: disappear 6s 2.15s linear forwards infinite; }
+    .d9  { animation: disappear 6s 2.4s  linear forwards infinite; }
+    .d10 { animation: disappear 6s 2.65s linear forwards infinite; }
+    .d11 { animation: disappear 6s 2.9s  linear forwards infinite; }
+    .d12 { animation: disappear 6s 3.15s linear forwards infinite; }
+    .d13 { animation: disappear 6s 3.4s  linear forwards infinite; }
+    .d14 { animation: disappear 6s 3.65s linear forwards infinite; }
+    .d15 { animation: disappear 6s 3.9s  linear forwards infinite; }
+    .d16 { animation: disappear 6s 4.15s linear forwards infinite; }
+    .d17 { animation: disappear 6s 4.4s  linear forwards infinite; }
+    .d18 { animation: disappear 6s 4.65s linear forwards infinite; }
+    .d19 { animation: disappear 6s 4.9s  linear forwards infinite; }
+    .d20 { animation: disappear 6s 5.15s linear forwards infinite; }
+
+    @keyframes disappear {
+      0%, 5%   { opacity: 1; }
+      8%, 100% { opacity: 0; }
+    }
+
+    /* Score pop */
+    .score {
+      font-family: monospace;
+      font-size: 14px;
+      font-weight: bold;
+      fill: #F5A623;
+      animation: scoreFloat 6s 0.5s linear infinite;
+    }
+    @keyframes scoreFloat {
+      0%,4%   { opacity:0; transform: translateY(0); }
+      6%      { opacity:1; }
+      12%,100%{ opacity:0; transform: translateY(-20px); }
+    }
+
+    /* Lives display */
+    .lives { fill: #FFD700; font-family: monospace; font-size:13px; }
+  </style>
+
+  <!-- Background track -->
+  <rect x="0" y="0" width="800" height="120" fill="#0d1117"/>
+  <rect x="10" y="44" width="780" height="32" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Score display -->
+  <text x="20" y="22" font-family="monospace" font-size="13" fill="#F5A623">SCORE</text>
+  <text x="20" y="38" font-family="monospace" font-size="13" fill="#ffffff">001337</text>
+  <text x="680" y="22" font-family="monospace" font-size="13" fill="#F5A623">LIVES</text>
+  <!-- Life icons -->
+  <circle cx="690" cy="34" r="7" fill="#FFD700"/>
+  <circle cx="710" cy="34" r="7" fill="#FFD700"/>
+  <circle cx="730" cy="34" r="7" fill="#FFD700"/>
+
+  <!-- Dots -->
+  <circle class="dot d1"  cx="60"  cy="60" r="5"/>
+  <circle class="dot d2"  cx="100" cy="60" r="5"/>
+  <circle class="dot d3"  cx="140" cy="60" r="5"/>
+  <circle class="dot d4"  cx="180" cy="60" r="5"/>
+  <circle class="dot d5"  cx="220" cy="60" r="5"/>
+  <circle class="dot d6"  cx="260" cy="60" r="5"/>
+  <circle class="dot d7"  cx="300" cy="60" r="5"/>
+  <circle class="dot d8"  cx="340" cy="60" r="5"/>
+  <circle class="dot d9"  cx="380" cy="60" r="5"/>
+  <circle class="dot d10" cx="420" cy="60" r="5"/>
+  <circle class="dot d11" cx="460" cy="60" r="5"/>
+  <circle class="dot d12" cx="500" cy="60" r="5"/>
+  <circle class="dot d13" cx="540" cy="60" r="5"/>
+  <circle class="dot d14" cx="580" cy="60" r="5"/>
+  <circle class="dot d15" cx="620" cy="60" r="5"/>
+  <circle class="dot d16" cx="660" cy="60" r="5"/>
+  <circle class="dot d17" cx="700" cy="60" r="5"/>
+  <circle class="dot d18" cx="740" cy="60" r="5"/>
+  <!-- Power dots (bigger, red) -->
+  <circle class="dot d19" cx="30"  cy="60" r="9" fill="#D0021B"/>
+  <circle class="dot d20" cx="770" cy="60" r="9" fill="#D0021B"/>
+
+  <!-- Ghost (chasing behind pacman) -->
+  <g class="ghost" style="animation-delay:-1s">
+    <rect x="-50" y="38" width="28" height="28" rx="14" fill="#D0021B"/>
+    <rect x="-50" y="52" width="28" height="14" fill="#D0021B"/>
+    <!-- ghost wavy bottom -->
+    <polygon points="-50,66 -45,60 -40,66 -35,60 -30,66 -25,60 -22,66" fill="#D0021B"/>
+    <!-- ghost eyes -->
+    <circle cx="-43" cy="50" r="4" fill="white"/>
+    <circle cx="-31" cy="50" r="4" fill="white"/>
+    <circle cx="-42" cy="51" r="2" fill="#0d1117"/>
+    <circle cx="-30" cy="51" r="2" fill="#0d1117"/>
+  </g>
+
+  <!-- Pacman -->
+  <g id="pac">
+    <!-- Body -->
+    <g>
+      <!-- open mouth frame -->
+      <path d="M-20,60 L4,42 A24,24 0 1,0 4,78 Z" fill="#FFD700">
+        <animate attributeName="d"
+          values="
+            M-20,60 L4,42 A24,24 0 1,0 4,78 Z;
+            M-20,60 L-18,59 A24,24 0 1,0 -18,61 Z;
+            M-20,60 L4,42 A24,24 0 1,0 4,78 Z
+          "
+          dur="0.35s" repeatCount="indefinite"/>
+      </path>
+      <!-- Eye -->
+      <circle cx="-12" cy="46" r="3" fill="#0d1117"/>
+    </g>
+  </g>
+
+  <!-- Bottom label -->
+  <text x="400" y="108" text-anchor="middle" font-family="monospace" font-size="11" fill="#30363d">⛵ Thousand Sunny Go — Jejak Petualangan Luffy 🏴‍☠️</text>
+</svg>
