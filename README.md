@@ -105,20 +105,11 @@
 
 ---
 
-## ⛵ Going Merry — Jejak Petualangan Luffy
+## 🚢 Thousand Sunny Go — Jejak Petualangan Luffy
 
 <div align="center">
 
-> *"Kapal ini sudah membawa kita sejauh ini... sekarang biar dia bawa kontribusi kita lebih jauh lagi!"*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/pacman.svg">
-  <img alt="pacman contribution graph" width="100%"
-    src="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/pacman.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/RafiAldan/RafiAldan/main/pacman.svg" width="100%" alt="Pacman Animation"/>
 
 </div>
 
