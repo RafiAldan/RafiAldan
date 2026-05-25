@@ -1,39 +1,46 @@
+<!-- One Piece Theme Banner -->
 <div align="center">
 
-<!-- Header Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+RafiAldan+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D0021B&height=120&section=header&text=&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&weight=700&size=32&pause=1000&color=D0021B&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+I'm+going+to+be+King+of+the+Pirates!;Welcome+to+RafiAldan's+Den+Den+Mushi+%F0%9F%90%8C;Yohohoho~+I+am+a+Developer!+%F0%9F%92%80;%E2%9A%93+Set+sail+and+explore+my+repos!)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=RafiAldan&color=6E40C9&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/RafiAldan?label=Followers&style=flat-square&color=6E40C9)](https://github.com/RafiAldan)
+![Profile Views](https://komarev.com/ghpvc/?username=RafiAldan&color=D0021B&style=for-the-badge&label=Nakama+yang+mampir)
+[![GitHub followers](https://img.shields.io/github/followers/RafiAldan?label=Nakama&style=for-the-badge&color=D0021B&logo=github)](https://github.com/RafiAldan)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNjNjNwODZobXhsMG9xY3Zkd3pjOHNyYW9lNzQxd3Ntd3gxaXV0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="coding gif"/>
+
+## ⚓ Nakama Info
 
 ```yaml
-name       : RafiAldan
-location   : Indonesia 🇮🇩
-status     : Always learning something new
-interests  : Software Development, Open Source, Problem Solving
+┌─────────────────────────────────────┐
+│  🏴‍☠️  Crew     : Straw Hat Pirates    │
+│  👤  Name     : RafiAldan           │
+│  🌍  Origin   : Indonesia 🇮🇩        │
+│  🎯  Dream    : Jadi King of Coders │
+│  🍖  Weakness : Nasi goreng & kopi  │
+└─────────────────────────────────────┘
 ```
 
-- 🔭 Sedang mengerjakan project-project menarik
-- 🌱 Selalu belajar teknologi baru
-- 💬 Tanya aku soal apapun yang bisa aku bantu
-- ⚡ Fun fact: Kode yang baik adalah kode yang mudah dibaca
+- 🔭 Sedang berlayar mengerjakan project seru
+- 🌱 Belajar hal baru tiap hari kayak Luffy latihan
+- ⚡ Fun fact: Kode yang good = One Piece yang ditemukan
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🗺️ Devil Fruit (Tech Stack)
 
 <div align="center">
 
-**Languages**
+**⚔️ Languages — Kekuatan Buah Iblis**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,14 +48,14 @@ interests  : Software Development, Open Source, Problem Solving
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frameworks & Libraries**
+**🏴‍☠️ Frameworks — Senjata Andalan**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**Tools & Platforms**
+**⚓ Tools — Perlengkapan Kapal**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -56,7 +63,7 @@ interests  : Software Development, Open Source, Problem Solving
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Databases**
+**🌊 Databases — Lautan Data**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -66,35 +73,38 @@ interests  : Software Development, Open Source, Problem Solving
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Bounty Stats (GitHub Stats)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafiAldan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafiAldan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/RafiAldan">
+  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafiAldan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=D0021B&icon_color=F5A623&text_color=ffffff&bg_color=0d1117&rank_icon=github"/>
+</a>
+<a href="https://github.com/RafiAldan">
+  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafiAldan&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=D0021B&text_color=ffffff&bg_color=0d1117"/>
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RafiAldan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RafiAldan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RafiAldan&theme=dark&hide_border=true&ring=D0021B&fire=F5A623&currStreakLabel=D0021B&background=0d1117&stroke=D0021B&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=F5A623)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🐍 Snake & Pacman Contribution Graph
+## 🏆 Pirate Rank (Trophies)
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RafiAldan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&title_color=D0021B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Log Pelayaran — Snake
 
 <div align="center">
 
@@ -103,18 +113,24 @@ interests  : Software Development, Open Source, Problem Solving
     srcset="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
+  <img alt="snake animation" width="100%"
     src="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
+</div>
+
+---
+
+## 🎮 Log Pelayaran — Pacman
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/pacman-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/pacman.svg">
-  <img alt="pacman contribution graph"
+  <img alt="pacman animation" width="100%"
     src="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/pacman.svg">
 </picture>
 
@@ -122,17 +138,17 @@ interests  : Software Development, Open Source, Problem Solving
 
 ---
 
-## 📈 Activity Graph
+## 📈 Peta Petualangan (Activity Graph)
 
 <div align="center">
 
-[![RafiAldan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafiAldan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafiAldan&theme=github-compact&hide_border=true&area=true&color=D0021B&line=F5A623&point=ffffff&area_color=D0021B&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌊 Den Den Mushi (Contact)
 
 <div align="center">
 
@@ -146,8 +162,8 @@ interests  : Software Development, Open Source, Problem Solving
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D0021B&height=100&section=footer&text=&animation=fadeIn"/>
 
-⭐ Jangan lupa star repo yang kamu suka!
+*"Aku akan jadi Raja Para Bajak Laut!"* 🏴‍☠️ — Monkey D. Luffy
 
 </div>
