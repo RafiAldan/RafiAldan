@@ -70,14 +70,15 @@ interests  : Software Development, Open Source, Problem Solving
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafiAldan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiAldan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafiAldan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafiAldan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafiAldan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RafiAldan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -93,7 +94,7 @@ interests  : Software Development, Open Source, Problem Solving
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Snake & Pacman Contribution Graph
 
 <div align="center">
 
@@ -106,13 +107,7 @@ interests  : Software Development, Open Source, Problem Solving
     src="https://raw.githubusercontent.com/RafiAldan/RafiAldan/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
----
-
-## 🎮 Pacman Contribution Graph
-
-<div align="center">
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -131,7 +126,7 @@ interests  : Software Development, Open Source, Problem Solving
 
 <div align="center">
 
-[![RafiAldan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafiAldan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RafiAldan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafiAldan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
