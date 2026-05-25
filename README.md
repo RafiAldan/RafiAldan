@@ -1,7 +1,7 @@
-<!-- One Piece Theme Banner -->
+<!-- One Piece Theme -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D0021B&height=120&section=header&text=&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D0021B&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&weight=700&size=32&pause=1000&color=D0021B&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+I'm+going+to+be+King+of+the+Pirates!;Welcome+to+RafiAldan's+Den+Den+Mushi+%F0%9F%90%8C;Yohohoho~+I+am+a+Developer!+%F0%9F%92%80;%E2%9A%93+Set+sail+and+explore+my+repos!)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRubmZtNjlocDZvYmt6MnN0ZDF3MGNwNWEzcXd0NXJlamlxNW02MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XiMAAllGRlJBK/giphy.gif" width="200" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNjNjNwODZobXhsMG9xY3Zkd3pjOHNyYW9lNzQxd3Ntd3gxaXV0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="coding gif"/>
 
 ## ⚓ Nakama Info
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-**⚔️ Languages — Kekuatan Buah Iblis**
+**⚔️ Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,14 +48,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**🏴‍☠️ Frameworks — Senjata Andalan**
+**🏴‍☠️ Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**⚓ Tools — Perlengkapan Kapal**
+**⚓ Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -63,7 +63,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**🌊 Databases — Lautan Data**
+**🌊 Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,16 +73,17 @@
 
 ---
 
-## 📊 Bounty Stats (GitHub Stats)
+## 📊 Bounty Stats
 
 <div align="center">
 
-<a href="https://github.com/RafiAldan">
-  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafiAldan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=D0021B&icon_color=F5A623&text_color=ffffff&bg_color=0d1117&rank_icon=github"/>
-</a>
-<a href="https://github.com/RafiAldan">
-  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafiAldan&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=D0021B&text_color=ffffff&bg_color=0d1117"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafiAldan&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafiAldan&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafiAldan&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafiAldan&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafiAldan&theme=github_dark&utcOffset=7" width="49%"/>
 
 </div>
 
@@ -98,13 +99,13 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RafiAldan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&title_color=D0021B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RafiAldan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🐍 Log Pelayaran — Snake
+## 🚢 Thousand Sunny — Jalur Pelayaran Snake
 
 <div align="center">
 
@@ -121,7 +122,7 @@
 
 ---
 
-## 🎮 Log Pelayaran — Pacman
+## ⛵ Going Merry — Jejak Kontribusi Pacman
 
 <div align="center">
 
@@ -162,7 +163,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D0021B&height=100&section=footer&text=&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D0021B&height=100&section=footer"/>
 
 *"Aku akan jadi Raja Para Bajak Laut!"* 🏴‍☠️ — Monkey D. Luffy
 
