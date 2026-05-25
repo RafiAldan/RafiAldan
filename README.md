@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNjNjNwODZobXhsMG9xY3Zkd3pjOHNyYW9lNzQxd3Ntd3gxaXV0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="coding gif"/>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRubmZtNjlocDZvYmt6MnN0ZDF3MGNwNWEzcXd0NXJlamlxNW02MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XiMAAllGRlJBK/giphy.gif" width="200" alt="coding gif"/>
 
 ## ⚓ Nakama Info
 
